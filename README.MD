@@ -265,3 +265,7 @@ Voici un extrait de tests refactorisés:
 Les tests pasent tous avec la refactorisation, on est bons.
 
 ## Workflow 
+
+La pull request a été faite, mais par contre je ne vois pas les tests s'ils ont été exécutés.
+
+J'ai modifié le fichier ci-cd.yml pour ajouter aussi la branche dev dans le github actions pour voir avec un push puis PR si j'ai quelque chose qui apparait sur github.
